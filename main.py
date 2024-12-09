@@ -8,7 +8,7 @@ from prettytable import PrettyTable
 SERVER = 'cbhutch_laptop\\SQLEXPRESS'
 DATABASE = 'KnightHardwareDB'
 USERNAME = 'sa'
-PASSWORD = 'HazardousAzpi!!1028!!'
+PASSWORD = 'password'
 
 connectionString = f'DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={SERVER};DATABASE={DATABASE};UID={USERNAME};PWD={PASSWORD}'
 
